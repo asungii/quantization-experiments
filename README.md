@@ -1,2 +1,2 @@
 # smoothquant-experiments
-Working with SmoothQuant and LLM-AWQ.
+Working with SmoothQuant.
